@@ -18,7 +18,7 @@ spectral = "0.6"
 reqwest = "0.9.17"
 log = "0.4"
 env_logger = "0.6.1"
-hyper = "0.12"
+hyper = "0.14"
 clap = "~2.33"
 chrono = "0.4"
 rudr = { path = '../' }
